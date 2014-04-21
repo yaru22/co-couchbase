@@ -1,0 +1,31 @@
+{
+  "name": "co-couchbase",
+  "version": "0.1.0",
+  "description": "A couchbase wrapper to be used with visionmedia's co library.",
+  "main": "lib/index.js",
+  "author": "Brian Park <yaru22@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "co",
+    "couchbase",
+    "generators",
+    "harmony"
+  ],
+  "files": [
+    "lib/",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yaru22/co-couchbase"
+  },
+  "dependencies": {
+    "co": "^3.0.5",
+    "couchbase": "^1.2.1",
+    "thunkify": "^2.1.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.11.10"
+  }
+}
