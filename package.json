@@ -1,6 +1,6 @@
 {
   "name": "co-couchbase",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A couchbase wrapper to be used with visionmedia's co library.",
   "main": "lib/index.js",
   "author": "Brian Park <yaru22@gmail.com>",
